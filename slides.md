@@ -50,5 +50,83 @@ Spring 2024 &copy; Khalid Alharbi, Ph.D.
 ---
 
 # Table of Contents
-- A
-- B
+- What's Cloud Computing
+- Evolution of Cloud Computing
+- Cloud Deployment Models
+- Cloud Service Models
+- Cloud Storage
+- Architectural Choices
+
+
+---
+layout: center
+---
+
+# What's Cloud Computing?
+> "Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction." [^1]
+
+[^1]: <small>[The NIST Definition of Cloud Computing (NIST Special Publication 800-145)](https://csrc.nist.gov/publications/detail/sp/800-145/final)</small>
+
+
+---
+layout: Center
+---
+
+
+# The Evolution of Cloud Computing
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="width: 20%; border: 1px solid; border-radius: 15px; padding: 5px; margin: 5px;">
+    <h4 style="font-weight: bold; padding-bottom: 10px;">Traditional Data Center</h4>
+    <ul style="font-size: 0.8em;">
+      <li>Terminals</li>
+      <li>Multiple distributed servers</li>
+      <li>Large individual servers</li>
+    </ul>
+  </div>
+  <div style="width: 20%; border: 1px solid; border-radius: 15px; padding: 10px; margin: 10px;">
+    <h3 style="font-weight: bold; padding-bottom: 10px;">Server Virtualization</h3>
+    <ul style="font-size: 0.8em;">
+      <li>Virtual instances of IT resources (compute, storage, networking, etc.)</li>
+      <li>Type-1 Hypervisors (e., Xen, Vmware ESXi)</li>
+    </ul>
+  </div>
+    <div style="width: 20%; border: 1px solid; border-radius: 15px; padding: 10px; margin: 10px;">
+    <h3 style="font-weight: bold; padding-bottom: 10px;">Private Cloud/On-premise / Internal Corporate Cloud</h3>
+    <ul style="font-size: 0.8em;">
+      <li>Managed by a single organization</li>
+      <li>Offered to select users</li>
+      <li>Often used due to regulatory reasons</li>
+    </ul>
+  </div>
+    <div style="width: 20%; border: 1px solid; border-radius: 15px; padding: 10px; margin: 10px;">
+    <h3 style="font-weight: bold; padding-bottom: 10px;">Hybrid Cloud</h3>
+    <ul style="font-size: 0.8em;">
+      <li>A combination of a private cloud and a public cloud</li>
+    </ul>
+  </div>
+    <div style="width: 20%; border: 1px solid; border-radius: 15px; padding: 10px; margin: 10px;">
+    <h3 style="font-weight: bold; padding-bottom: 10px;">Public Cloud</h3>
+    <ul style="font-size: 0.8em;">
+      <li>IT resources and services offered by third-party provides over the public internet (off-premise)</li>
+      <li>Examples: AWS, Azure, and GCP</li>
+    </ul>
+  </div>
+</div>
+
+
+
+---
+layout: center
+---
+
+# Cloud Deployment Models
+- Private Cloud
+- Community Cloud
+- Public Cloud
+- Hybrid Cloud
+
+---
+
+# Private Cloud
+
