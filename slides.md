@@ -736,7 +736,7 @@ table {
   - four hours per operation, six times per year = **24 hours per year**. => 1440 minutes + 280 minutes = 1720 minutes
     - `minutes_in_year = 60 minutes/hour * 24 hours/day * 365 days/year = 525,600`
     - Availability = ((525,600 - 1720) / 525,600) * 100 = 99.6726%
-  - In total, the availability is approximately **"Two Nines" (99%)**
+- In total, the availability is approximately **"Two Nines" (99%)**
 
 </div>
 
