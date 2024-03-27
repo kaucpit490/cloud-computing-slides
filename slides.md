@@ -3,7 +3,7 @@
 theme: default
 presenter: true
 title: 'Cloud Computing | Compute and Storage'
-titleTemplate: '%s - CPIT-405'
+titleTemplate: '%s - CPIT-490'
 # apply any windi css classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
