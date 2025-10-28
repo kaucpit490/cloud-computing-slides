@@ -5,12 +5,15 @@
   "scripts": {
     "build": "slidev build --base /cloud-computing-slides/",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export --output dist/cloud-computing-slides.pdf"
   },
   "dependencies": {
-    "@slidev/cli": "^0.48.7",
+     "@slidev/cli": "^52.1.0",
     "@slidev/theme-default": "latest",
     "playwright-chromium": "^1.42.1",
-    "vue": "^3.4.21"
+    "vue": "^3.5.18"
+  },
+    "devDependencies": {
+    "playwright-chromium": "^1.55.0"
   }
 }

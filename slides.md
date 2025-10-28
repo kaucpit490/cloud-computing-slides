@@ -25,10 +25,10 @@ download: true
 exportFilename: cloud-computing-slides
 export:
   format: pdf
-  timeout: 30000
+  timeout: 50000
   dark: false
   withClicks: false
-  withToc: false
+  withToc: true
 # enable slide recording and drawing
 record: build
 drawings:
