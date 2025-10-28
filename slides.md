@@ -2,7 +2,7 @@
 # try also 'default' to start simple
 theme: default
 presenter: true
-title: 'Cloud Computing | Compute and Storage'
+title: 'Cloud Computing Fundamentals'
 titleTemplate: '%s - CPIT-490'
 # apply any windi css classes to the current slide
 class: text-center
@@ -12,7 +12,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: | 
-    Cloud Computing | Compute and Storage
+    Cloud Computing Fundamentals
 # page transition
 transition: slide-left
 # use UnoCSS
